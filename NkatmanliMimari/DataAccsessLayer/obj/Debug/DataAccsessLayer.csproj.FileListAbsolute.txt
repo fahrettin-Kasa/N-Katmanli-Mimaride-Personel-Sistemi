@@ -1,0 +1,9 @@
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\NkatmanliMimari\DataAccsessLayer\bin\Debug\DataAccsessLayer.dll
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\NkatmanliMimari\DataAccsessLayer\bin\Debug\DataAccsessLayer.pdb
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\NkatmanliMimari\DataAccsessLayer\bin\Debug\EntityLayer.dll
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\NkatmanliMimari\DataAccsessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\NkatmanliMimari\DataAccsessLayer\obj\Debug\DataAccsessLayer.csproj.AssemblyReference.cache
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\NkatmanliMimari\DataAccsessLayer\obj\Debug\DataAccsessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\NkatmanliMimari\DataAccsessLayer\obj\Debug\DataAccsessLayer.csproj.CopyComplete
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\NkatmanliMimari\DataAccsessLayer\obj\Debug\DataAccsessLayer.dll
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\NkatmanliMimari\DataAccsessLayer\obj\Debug\DataAccsessLayer.pdb
